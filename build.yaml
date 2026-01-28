@@ -17,9 +17,3 @@
 #     cmake-args: -DCONFIG_ZMK_STUDIO=y
 #     artifact-name: corne_left_with_studio
 #
----
-include:
-  - board: adafruit_kb2040
-    shield: a_dux_left
-  - board: adafruit_kb2040
-    shield: a_dux_right
